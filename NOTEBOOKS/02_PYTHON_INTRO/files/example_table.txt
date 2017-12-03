@@ -1,0 +1,4 @@
+# name   distance_kpc
+47Tuc    7.4
+NGC288  12.0
+NGC362   9.4
