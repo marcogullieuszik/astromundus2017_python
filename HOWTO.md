@@ -5,7 +5,7 @@ in the computer room at the Innsbruck University.
 ```bash
 module available
 
-module load python/3.6.3
+module load python/miniconda3
 ```
 
 # create a working directory
