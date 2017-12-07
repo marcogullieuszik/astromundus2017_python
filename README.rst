@@ -48,6 +48,10 @@ _____
 _____
  - FITS File Format
  - Read FITS file
+ - Convenience Functions
+ - modify an existing header
+ - Creating a new FITS image
+ - WCS
 `Python Classes <NOTEBOOKS/06_CLASSES/classes.ipynb>`_
 _____
  - Classes
