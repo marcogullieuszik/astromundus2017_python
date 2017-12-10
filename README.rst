@@ -72,3 +72,8 @@ _____
  - Constants
  - Coordinates
  - Tables
+`Model fitting <NOTEBOOKS/09_MODEL_FITTING/Model_Fitting.ipynb>`_
+_____
+ - Polynomials with numpy
+ - The `astropy.modeling` Package
+ - Fitting models using astropy
