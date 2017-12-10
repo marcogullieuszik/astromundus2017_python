@@ -47,7 +47,7 @@ _____
 `FITS files <NOTEBOOKS/05_FITS_FILES/fits_files.ipynb>`_
 _____
  - FITS File Format
- - Read FITS file
+ - Read FITS file using astropy
  - Convenience Functions
  - modify an existing header
  - Creating a new FITS image
@@ -65,3 +65,10 @@ _____
  - scatter plot
  - histogram
  - `Exercises <NOTEBOOKS/07_MATPLOTLIB/Exercises.ipynb>`_
+`Introduction to Astropy <NOTEBOOKS/08_ASTROPY/astropy.ipynb>`_
+_____
+ - The astropy project
+ - Quantities and units
+ - Constants
+ - Coordinates
+ - Tables
