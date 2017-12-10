@@ -77,3 +77,10 @@ _____
  - Polynomials with numpy
  - The `astropy.modeling` Package
  - Fitting models using astropy
+`Working on a real problem <NOTEBOOKS/10_RGB_SLOPE/RGB_SLOPE.ipynb>`_
+_____
+ - The RGB slope - metallicity relation (Valenti et al. 2004)
+ - Download data from vizier
+ - Use one cluster as a test case
+ - put it all togheter in a function
+ - iterate on all obects
