@@ -84,3 +84,9 @@ _____
  - Use one cluster as a test case
  - put it all togheter in a function
  - iterate on all obects
+`The Virtual Observatory <NOTEBOOKS/11_VIRTUAL_OBSERVATORY/virtual_observatory.ipynb>`_
+_____
+ - The astroquery package
+ - Retrieve images from SkyView
+ - Retrieve complete catalogs from Vizier
+ - Query a sky region from a Vizier catalog
