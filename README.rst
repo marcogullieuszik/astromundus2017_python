@@ -90,3 +90,5 @@ _____
  - Retrieve images from SkyView
  - Retrieve complete catalogs from Vizier
  - Query a sky region from a Vizier catalog
+`Python scripts <NOTEBOOKS/12_PYTHON_FROM_SHELL/python_shell.ipynb>`_
+_____
